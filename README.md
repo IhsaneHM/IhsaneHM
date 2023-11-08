@@ -1,4 +1,4 @@
-![logo](https://github.com/IhsaneHM/IhsaneHM/blob/main/image7.png)
+![logo](https://github.com/IhsaneHM/IhsaneHM/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ihsane Hmoumid</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco 🇲🇦 </h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsanehm&label=Profile%20views&color=0e75b6&style=flat" alt="ihsanehm" /> </p>
 
-- 🎯 How to reach me **Hmoumidihsane@gmail.com**
+- 🎯 How to reach me **hmoumidihsane@gmail.com**
 
 - ⚡ Fun fact **I'm so funny**
 
